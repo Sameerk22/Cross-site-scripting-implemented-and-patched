@@ -1,0 +1,129 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-size: 24px;
+  padding: 2px 0;
+}
+h4 {
+  font-size: 14px;
+  color: #515560;
+}
+
+p {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1rem;
+  color: #8f8f8f;
+}
+
+.main-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #6f9bac;
+}
+
+.sec-heading {
+  font-size: 3em;
+  line-height: 1.5;
+}
+
+.third-heading {
+  font-size: 1.5rem;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.colored-section {
+  background-color: #060d17;
+  color: white;
+}
+
+.white-section {
+  background: #fff;
+}
+/* Navigation Bar */
+
+.navbar {
+  padding-bottom: 3rem;
+  padding-left: 40%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light", sans-serif;
+}
+
+/* Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* title image */
+.title-img {
+  width: 70%;
+  position: relative;
+  left: 20%;
+}
+
+#title .container-fluid {
+  padding: 3% 10% 7%;
+}
+
+/* Features Container */
+
+#features {
+  position: relative;
+}
+
+.feat-box {
+  text-align: center;
+  padding: 5%;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+
+#comment-box {
+  margin-top: 50px;
+  width: 500px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+#post{
+  margin-left: 225px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+
+}
+#post:hover{
+    background-color: #8f8f8f;
+}
